@@ -3,28 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1a3d6666-6dbc-4075-876a-7d4f65e76f91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coming-soon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealers-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealers-profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-3.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listing-classic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listing-detail-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listing-detail.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/listing-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/listing-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-vehicles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-vehicle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile-settings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
